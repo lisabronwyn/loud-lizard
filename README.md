@@ -2,18 +2,18 @@
 
 ##Mo and Lisa's Basic Algorithms Project
 
-###Basic Algorithm Scripting on FCC
-
 ###Description
 
 ###Complete the basic algorithm scripting section here:
+
+Basic Algorithm Scripting on FCC
 https://www.freecodecamp.com/map
 
-###Specification
+##Specification
 
 ###Required
 
-###Do not remove these specs - they are required for all goals.
+Do not remove these specs - they are required for all goals.
 
  - [x] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
