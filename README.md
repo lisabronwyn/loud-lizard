@@ -18,3 +18,9 @@ Do not remove these specs - they are required for all goals.
  - [x] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 ###Quality rubric one: Code is readable
+
+##Completed Supplemental Lessons
+
+ - [x] FreeCodeCamp - The DOM: What's the Document Object Model?
+ - [x] FreeCodeCamp - The DOM: Style in the Header, Script in the Footer
+
