@@ -31,6 +31,8 @@ Do not remove these specs - they are required for all goals.
  - [x] FreeCodeCamp - JavaScript Lingo: Manipulating Data 
  - [x] FreeCodeCamp - JavaScript Lingo: Loops
  - [x] FreeCodeCamp - JavaScript Lingo: Regular Expressions
+ - [x] FreeCodeCamp - Big O Notation: What It Is and Why You Should Care
+ - [x] FreeCodeCamp - Big O Notation: A Few Examples
  
  
 
