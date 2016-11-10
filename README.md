@@ -67,6 +67,8 @@ Do not remove these specs - they are required for all goals.
  - [x] FreeCodeCamp - JavaScript Lingo: Regular Expressions
  - [x] FreeCodeCamp - Big O Notation: What It Is and Why You Should Care
  - [x] FreeCodeCamp - Big O Notation: A Few Examples
- 
+ - [x] A Smarter Way to Learn JS - Chapter Exercises: 1 - 9, 22
+ - [x] Tutorials Point - HTTP, Express JS, React, JS
+ - [x] React JS Fundamentals - Intro to the React Ecosystem
  
 
