@@ -70,7 +70,8 @@ Do not remove these specs - they are required for all goals.
  - [x] A Smarter Way to Learn JS - Chapter Exercises: 1 - 9, 22 \**
  - [x] Tutorials Point - HTTP, Express JS, React JS \*** 
  - [x] React JS Fundamentals - Intro to the React Ecosystem
- - [x] MongoDB Tutorial for Beginners - YouTube Video (https://youtu.be/T4olEQvSwx4?list=LLXSUtyM-_xpurx68EOvcMlw) \****
+ - [x] MongoDB Tutorial for Beginners - YouTube Video  
+(https://youtu.be/T4olEQvSwx4?list=LLXSUtyM-_xpurx68EOvcMlw) \****
  
  * Tutorials marked with an * above were very beneficial. (Explanations of why are below) 
  
