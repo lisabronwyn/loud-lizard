@@ -64,7 +64,7 @@ Do not remove these specs - they are required for all goals.
  - [x] FreeCodeCamp - JavaScript Lingo: Math
  - [x] FreeCodeCamp - JavaScript Lingo: Manipulating Data 
  - [x] FreeCodeCamp - JavaScript Lingo: Loops
- - [x] FreeCodeCamp - JavaScript Lingo: Regular Expressions
+ - [x] FreeCodeCamp - JavaScript Lingo: Regular Expressions *
  - [x] FreeCodeCamp - Big O Notation: What It Is and Why You Should Care
  - [x] FreeCodeCamp - Big O Notation: A Few Examples
  - [x] A Smarter Way to Learn JS - Chapter Exercises: 1 - 9, 22 *
@@ -72,11 +72,13 @@ Do not remove these specs - they are required for all goals.
  - [x] React JS Fundamentals - Intro to the React Ecosystem
  - [x] MongoDB Tutorial for Beginners - YouTube Video
  
- * These tutorials were very beneficial. 
+* These tutorials were very beneficial. 
  
- In A Smarter Way to Learn JS, we learned that the placement of operators matters when assigning values to a new variable. Example: x-- vs --x
+* On FCC's JavaScript Lingo, "learn it, know it" can be a great help for changing strings and for the manipulation of user input.
+
+* On A Smarter Way to Learn JS, we learned that the placement of operators matters when assigning values to a new variable. Example: x-- vs --x
  
- On Tutorials Point, we learned that all Express methods are equivalent to HTTP verbs (i.e., post, Git, etc.) If code works for small calculations/data, it's not always efficient when scaled to larger calculations/data.
+* On Tutorials Point, we learned that all Express methods are equivalent to HTTP verbs (i.e., post, Git, etc.) If code works for small calculations/data, it's not always efficient when scaled to larger calculations/data.
  
  
  
