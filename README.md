@@ -58,7 +58,7 @@ Do not remove these specs - they are required for all goals.
  - [x] FreeCodeCamp - The DOM: What's the Document Object Model?
  - [x] FreeCodeCamp - The DOM: Style in the Header, Script in the Footer
  - [x] FreeCodeCamp - JavaScript Lingo: MDN and Documentation
- - [x] FreeCodeCamp - JavaScript Lingo: Variables & camelCase
+ - [x] FreeCodeCamp - JavaScript Lingo: Variables & camelCase 
  - [x] FreeCodeCamp - JavaScript Lingo: Finding and Indexing 
  - [x] FreeCodeCamp - JavaScript Lingo: Manipulating Data 
  - [x] FreeCodeCamp - JavaScript Lingo: Math
@@ -67,8 +67,17 @@ Do not remove these specs - they are required for all goals.
  - [x] FreeCodeCamp - JavaScript Lingo: Regular Expressions
  - [x] FreeCodeCamp - Big O Notation: What It Is and Why You Should Care
  - [x] FreeCodeCamp - Big O Notation: A Few Examples
- - [x] A Smarter Way to Learn JS - Chapter Exercises: 1 - 9, 22
- - [x] Tutorials Point - HTTP, Express JS, React, JS
+ - [x] A Smarter Way to Learn JS - Chapter Exercises: 1 - 9, 22 *
+ - [x] Tutorials Point - HTTP, Express JS, React JS * 
  - [x] React JS Fundamentals - Intro to the React Ecosystem
+ - [x] MongoDB Tutorial for Beginners - YouTube Video
+ 
+ * These tutorials were very beneficial. 
+ 
+ In A Smarter Way to Learn JS, we learned that the placement of operators matters when assigning values to a new variable. Example: x-- vs --x
+ 
+ On Tutorials Point, we learned that all Express methods are equivalent to HTTP verbs (i.e., post, Git, etc.) If code works for small calculations/data, it's not always efficient when scaled to larger calculations/data.
+ 
+ 
  
 
